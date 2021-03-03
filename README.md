@@ -1,1 +1,1 @@
-# template-project
+# js-template-project
